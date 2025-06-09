@@ -1,0 +1,28 @@
+﻿@model Voiture
+
+@{
+    ViewData["Title"] = "Détails Voiture";
+}
+
+<h1>Détails de la Voiture</h1>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-3">Image</dt>
+        <dd class="col-sm-9">
+            <img src="~/images/@Model.Image" width="150" height="100" />
+        </dd>
+        <dt class="col-sm-3">Matricule</dt>
+        <dd class="col-sm-9">@Model.Matricule</dd>
+
+        <dt class="col-sm-3">Marque</dt>
+        <dd class="col-sm-9">@Model.Marque</dd>
+
+        <dt class="col-sm-3">Modèle</dt>
+        <dd class="col-sm-9">@Model.Modele</dd>
+
+    </dl>
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Modifier</a>
+<a asp-action="Index" class="btn btn-secondary">Retour à la liste</a>

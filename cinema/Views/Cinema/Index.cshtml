@@ -1,0 +1,34 @@
+﻿@model IEnumerable<test.Models.Cinema>
+@{
+    ViewData["Title"] = "Cinemas List";
+}
+
+<h1>Cinemas</h1>
+
+<div class="text-end mb-3">
+    <a asp-action="Create" class="btn btn-success">Add New Cinema</a>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nom</th>
+            <th>Films Count</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cinema in Model)
+        {
+            <tr>
+                <td>@cinema.CinemaName</td>
+                <td>@(cinema.Films?.Count ?? 0)</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@cinema.CinemaId" class="btn btn-primary btn-sm">View</a>
+                    <a asp-action="Edit" asp-route-id="@cinema.CinemaId" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@cinema.CinemaId" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

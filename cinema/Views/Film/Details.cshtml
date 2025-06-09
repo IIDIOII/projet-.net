@@ -1,0 +1,29 @@
+﻿@model Film
+@{
+    ViewData["Title"] = "Details";
+    var photoPath = "~/images/" + (Model.Image ?? "noimage.jpg");
+}
+
+<h1>Film Details</h1>
+<hr />
+<dl class="row">
+    <dt class="col-sm-2">Name</dt>
+    <dd class="col-sm-10">@Model.Name</dd>
+
+    <dt class="col-sm-2">Price</dt>
+    <dd class="col-sm-10">@Model.Price</dd>
+
+    <dt class="col-sm-2">Quantity</dt>
+    <dd class="col-sm-10">@Model.QteStock</dd>
+
+    <dt class="col-sm-2">Cinema</dt>
+    <dd class="col-sm-10">@Model.Cinema.CinemaName</dd>
+
+    <dt class="col-sm-2">Image</dt>
+    <dd class="col-sm-10">
+        <img src="@photoPath" width="120" height="120" />
+    </dd>
+</dl>
+<a asp-action="Edit" asp-route-id="@Model.FilmId">Edit</a> |
+<a asp-action="Index">Back to List</a>
+

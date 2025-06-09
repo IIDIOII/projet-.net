@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yassi\\source\\repos\\examintp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\models\\appdbcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\models\\appdbcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\views\\appuser\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\views\\appuser\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\views\\appuser\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\views\\appuser\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\views\\location\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\views\\location\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\views\\location\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\views\\location\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\models\\repositories\\voiturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\models\\repositories\\voiturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\models\\repositories\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\models\\repositories\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\examintp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\examintp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\views\\location\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\views\\location\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\views\\voiture\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\views\\voiture\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\controllers\\voiturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\controllers\\voiturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|c:\\users\\yassi\\source\\repos\\examintp\\examintp\\models\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FBDBECE-A33B-4DE6-AEDD-53E85ABB7FF3}|examintp\\examintp.csproj|solutionrelative:examintp\\models\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "examintp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "examintp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:25:00.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignupController.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Controllers\\SignupController.cs",
+              "RelativeDocumentMoniker": "examintp\\Controllers\\SignupController.cs",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Controllers\\SignupController.cs",
+              "RelativeToolTip": "examintp\\Controllers\\SignupController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIAwwBoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T13:57:58.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Views\\Location\\Create.cshtml",
+              "RelativeDocumentMoniker": "examintp\\Views\\Location\\Create.cshtml",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Views\\Location\\Create.cshtml",
+              "RelativeToolTip": "examintp\\Views\\Location\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T13:42:51.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Views\\AppUser\\Register.cshtml",
+              "RelativeDocumentMoniker": "examintp\\Views\\AppUser\\Register.cshtml",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Views\\AppUser\\Register.cshtml",
+              "RelativeToolTip": "examintp\\Views\\AppUser\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T13:41:49.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Views\\AppUser\\Login.cshtml",
+              "RelativeDocumentMoniker": "examintp\\Views\\AppUser\\Login.cshtml",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Views\\AppUser\\Login.cshtml",
+              "RelativeToolTip": "examintp\\Views\\AppUser\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T13:41:25.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "examintp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Models\\User.cs",
+              "RelativeToolTip": "examintp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T13:40:31.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VoitureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Models\\Repositories\\VoitureRepository.cs",
+              "RelativeDocumentMoniker": "examintp\\Models\\Repositories\\VoitureRepository.cs",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Models\\Repositories\\VoitureRepository.cs",
+              "RelativeToolTip": "examintp\\Models\\Repositories\\VoitureRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T13:40:23.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Models\\Repositories\\ILocationRepository.cs",
+              "RelativeDocumentMoniker": "examintp\\Models\\Repositories\\ILocationRepository.cs",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Models\\Repositories\\ILocationRepository.cs",
+              "RelativeToolTip": "examintp\\Models\\Repositories\\ILocationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T13:40:19.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "examintp\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "examintp\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T13:40:10.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Program.cs",
+              "RelativeDocumentMoniker": "examintp\\Program.cs",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Program.cs",
+              "RelativeToolTip": "examintp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T13:39:16.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContent.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Models\\AppDbContent.cs",
+              "RelativeDocumentMoniker": "examintp\\Models\\AppDbContent.cs",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Models\\AppDbContent.cs",
+              "RelativeToolTip": "examintp\\Models\\AppDbContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T13:39:16.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "examintp",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\examintp.csproj",
+              "RelativeDocumentMoniker": "examintp\\examintp.csproj",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\examintp.csproj",
+              "RelativeToolTip": "examintp\\examintp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T13:39:15.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Views\\Location\\Delete.cshtml",
+              "RelativeDocumentMoniker": "examintp\\Views\\Location\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Views\\Location\\Delete.cshtml",
+              "RelativeToolTip": "examintp\\Views\\Location\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T12:12:15.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "examintp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "examintp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T12:07:46.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "examintp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "examintp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T12:07:33.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Views\\Location\\Edit.cshtml",
+              "RelativeDocumentMoniker": "examintp\\Views\\Location\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Views\\Location\\Edit.cshtml",
+              "RelativeToolTip": "examintp\\Views\\Location\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T11:55:07.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "examintp\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Models\\Location.cs",
+              "RelativeToolTip": "examintp\\Models\\Location.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:53:08.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "examintp\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "examintp\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:52:12.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VoitureController.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Controllers\\VoitureController.cs",
+              "RelativeDocumentMoniker": "examintp\\Controllers\\VoitureController.cs",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Controllers\\VoitureController.cs",
+              "RelativeToolTip": "examintp\\Controllers\\VoitureController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAowIsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:33:50.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Views\\Voiture\\Delete.cshtml",
+              "RelativeDocumentMoniker": "examintp\\Views\\Voiture\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Views\\Voiture\\Delete.cshtml",
+              "RelativeToolTip": "examintp\\Views\\Voiture\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T11:31:26.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Voiture.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Models\\Voiture.cs",
+              "RelativeDocumentMoniker": "examintp\\Models\\Voiture.cs",
+              "ToolTip": "C:\\Users\\yassi\\source\\repos\\examintp\\examintp\\Models\\Voiture.cs",
+              "RelativeToolTip": "examintp\\Models\\Voiture.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:36:59.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

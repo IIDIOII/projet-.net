@@ -1,0 +1,27 @@
+﻿@model Location
+
+@{
+    ViewData["Title"] = "Supprimer Location";
+}
+
+<h1>Supprimer Location</h1>
+
+<h3>Êtes-vous sûr de vouloir supprimer cette location ?</h3>
+<div>
+    <dl class="row">
+        <dt class="col-sm-3">Voiture</dt>
+        <dd class="col-sm-9">@Model.Voiture.Matricule</dd>
+
+        <dt class="col-sm-3">Date Début</dt>
+        <dd class="col-sm-9">@Model.DateDebutLocation.ToShortDateString()</dd>
+
+        <dt class="col-sm-3">Prix</dt>
+        <dd class="col-sm-9">@Model.Prix</dd>
+    </dl>
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Confirmer la suppression</button>
+    <a asp-action="Index" class="btn btn-secondary">Annuler</a>
+</form>

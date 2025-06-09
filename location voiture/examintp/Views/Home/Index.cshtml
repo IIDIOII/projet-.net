@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Accueil - MajdiCar";
+}
+
+<div class="text-center">
+    <h1 class="display-3 font-weight-bold text-primary">Bienvenue sur <span class="text-dark">MajdiVoit</span></h1>
+    <p class="lead">Votre solution rapide et fiable pour la location de voitures.</p>
+
+    <div class="mt-4">
+        <a class="btn btn-success btn-lg mx-2 shadow" href="/Voiture">🚗 Parcourir nos véhicules</a>
+        <a class="btn btn-outline-dark btn-lg mx-2 shadow" href="/Location">louer nos vehicule</a>
+    </div>
+</div>
+
+<style>
+    body {
+        background: linear-gradient(to right, #e0f7fa, #ffffff);
+    }
+
+    .text-center {
+        margin-top: 120px;
+    }
+
+    h1 span {
+        font-style: italic;
+    }
+
+    .lead {
+        font-size: 1.5rem;
+        color: #555;
+    }
+
+    .btn {
+        transition: transform 0.2s;
+    }
+
+    .btn:hover {
+        transform: scale(1.05);
+    }
+</style>

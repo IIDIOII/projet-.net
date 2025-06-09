@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Film>
+@{
+    ViewData["Title"] = "Films List";
+}
+
+<h1>Films</h1>
+<div class="card-group">
+    @foreach (var film in Model)
+    {
+        var photoPath = "~/images/" + (film.Image ?? "noimage.jpg");
+        <div class="card m-3" style="min-width: 18rem; max-width:30.5%;">
+            <div class="card-header">
+                <h5><b>Nom : </b> @film.Name</h5>
+                <h5><b>Prix ticket : </b> @film.Price</h5>
+                <h5><b>longeure en minutes : </b> @film.QteStock</h5>
+                <h5><b>Cinéma : </b> @film.Cinema.CinemaName</h5>
+            </div>
+            <img class="card-img-top imageThumbnail" src="@photoPath" asp-append-version="true" />
+            <div class="card-footer text-center">
+                <a asp-action="Details" asp-route-id="@film.FilmId" class="btn btn-primary m-1">View</a>
+                <a asp-action="Edit" asp-route-id="@film.FilmId" class="btn btn-primary m-1">Edit</a>
+                <a asp-action="Delete" asp-route-id="@film.FilmId" class="btn btn-danger m-1">Delete</a>
+            </div>
+        </div>
+    }
+    <div class="text-end mb-3">
+        <a asp-action="Create" class="btn btn-success">Add New Film</a>
+    </div>
+</div>

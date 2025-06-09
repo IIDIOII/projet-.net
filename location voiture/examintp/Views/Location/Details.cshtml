@@ -1,0 +1,26 @@
+﻿@model Location
+
+@{
+    ViewData["Title"] = "Détails Location";
+}
+
+<h1>Détails de la Location</h1>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-3">Date début</dt>
+        <dd class="col-sm-9">@Model.DateDebutLocation.ToShortDateString()</dd>
+
+        <dt class="col-sm-3">Durée</dt>
+        <dd class="col-sm-9">@Model.Duree</dd>
+
+        <dt class="col-sm-3">Prix</dt>
+        <dd class="col-sm-9">@Model.Prix</dd>
+
+        <dt class="col-sm-3">Voiture</dt>
+        <dd class="col-sm-9">@Model.Voiture.Matricule</dd>
+    </dl>
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Modifier</a>
+<a asp-action="Index" class="btn btn-secondary">Retour à la liste</a>
